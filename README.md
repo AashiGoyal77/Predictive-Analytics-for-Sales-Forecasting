@@ -1,4 +1,4 @@
 # Sales-Forecasting-with-Machine-Learning
 
-Creators:
+Creator:
 Aashi Goyal
