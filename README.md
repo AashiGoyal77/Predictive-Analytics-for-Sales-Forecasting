@@ -1,4 +1,4 @@
-# Sales-Forecasting-with-Machine-Learning
+# Predictive Analytics for Sales Forecasting
 
 Creator:
 Aashi Goyal
